@@ -8,21 +8,23 @@
 
 ## Introducción
 
-¡Bienvenidos a este proyecto de análisis de criptomonedas!, este trabajo se realizó en base al pedido de una empresa de servicios financieros, quien ante el auge del mundo de las criptomonedas está interesada en realizar inversiones.
+¡Bienvenidos a este proyecto de análisis de criptomonedas!, este trabajo se realizó en base al pedido de una empresa de servicios financieros, que ante el auge del mundo de las criptomonedas está interesada en realizar inversiones.
 
-Por lo que se realizó un estudio exhaustivo sobre el mercado de criptomonedas, dando como resultado el analisis de los principales indicadores de las mismas, los cuales fueron: 
+Por lo que nos solicitó un estudio exhaustivo sobre el mercado de criptomonedas, dando como resultado el analisis de los principales indicadores de las mismas, los cuales fueron: 
 
 * Capitalizacion de mercado - el precio por el total de circulacion
 
-* Volumen de operaciones
+* Volumen de operaciones - liquidez
 
 * Tecnologia Subyacente
 
-Atento a la necesidad de realizar una selección de monedas para analizar,procedí a elegir 10 criptomonedas, de las cuales busque las de mayor 'estabilidad', siendo ésta relativa al mundo cripto, tome 5 monedas con la mayor capitalización del mercado al momento de la consulta,siendo esta una medida del tamaño de una criptomoneda, se calcula multiplicando el precio actual por el número total de monedas en circulación. 
+Atento a la necesidad de realizar una selección de monedas para analizar,procedí a elegir 10 criptomonedas, de las cuales busqué las de mayor 'estabilidad', siendo ésta relativa al mundo cripto.
+
+Procedí a elegir 5 criptomonedas con la mayor capitalización del mercado ,al momento de la consulta,siendo esta una medida del tamaño de una criptomoneda, se calcula multiplicando el precio actual por el número total de monedas en circulación. 
 
 Las criptomonedas con un alta **capitalización** de mercado suelen considerarse más estables y menos volátiles que las que tienen una capitalización de mercado más baja. 
 
-Y en base a las oportunidades que presenta este tipo de criptoactivos tome otro criterio para el resto de las monedas a elegir, de las cuales busque las de mayor crecimiento basandome en criptomonedas con una **capitalización de mercado baja** y un **volumen de operaciones** alto. Para lo cual hice un indice de (Volumen de Transacciones /Capitalización de Mercado) para asi elegir las de mayor crecimiento.
+Y en base a las oportunidades que presenta este tipo de criptoactivos tome otro criterio para elegir las 5 criptomonedas restantes, de las cuales busqué las de mayor crecimiento basandome en aquellas con una **capitalización de mercado baja** y un **volumen de operaciones** alto. Para lo cual realicé un indice de (Volumen de Transacciones /Capitalización de Mercado) para asi elegir las de mayor crecimiento.
 
 Por ultimo **Tecnología** subyacente.
 
@@ -124,10 +126,11 @@ Por ultimo **Tecnología** subyacente.
 <br>
 </br>
 
-Es importante considerar la tecnología subyacente de las criptomonedas antes de invertir. Algunas criptomonedas se basan en tecnología más sólida que otras, siendo que la mayoria utiliza la denominada **Blockchain**.
-
+Es importante considerar la tecnología subyacente de las criptomonedas antes de invertir. Algunas se basan en tecnología más sólida que otras, siendo que la mayoria utiliza la denominada **Blockchain**. Esto es muy importante porque la **confianza** en estas influye en el valor de las monedas.
 
 Es importante asegurarse de que la criptomoneda tienen un equipo de desarrollo sólido.
+
+
 <p align="center">
   <img src="src\blockchain.png">
 </p>
@@ -135,8 +138,10 @@ Es importante asegurarse de que la criptomoneda tienen un equipo de desarrollo s
 ## Fuente
 Para el presente análisis se utilizo los datos proporcionados por la [API CoinGecko](https://www.coingecko.com/es/api/documentation).
 
-Aun asi en el mundo dinámico de las criptomonedas, la toma de decisiones informadas es crucial. El análisis de las historias individuales de cada criptomoneda revela oportunidades de inversión y estrategias de gestión de riesgos. Esta comprensión profunda no solo identifica proyectos sólidos, sino que también ayuda a enfrentar la volatilidad de manera efectiva.
+Aún asi en el mundo dinámico de las criptomonedas, la toma de decisiones informadas es crucial. El análisis de las historias individuales de cada criptomoneda revela oportunidades de inversión y estrategias de gestión de riesgos. Esta comprensión profunda no solo identifica proyectos sólidos, sino que también ayuda a enfrentar la volatilidad de manera efectiva.
+
 ## KPI's
+
 Al realizar este informe, tome en cuenta una serie de KPI's para analizar y comprender aspectos de las criptomonedas elegidas a traves de : 
 
 * **ROI** - Calcula el porcentaje de ganancia o pérdida en relación con la inversión inicial. Es una medida fundamental para evaluar la rentabilidad de una inversión en criptomonedas. Se calcula mediante la fórmula: ((Valor actual - Valor inicial) / Valor inicial) * 100.
@@ -216,4 +221,7 @@ Este proyecto no solo ofrece datos y análisis, sino que capacita a los inversor
 [LINKEDIN](https://www.linkedin.com/in/pablo-beti-714007265/)
 
 [INSTAGRAM](https://www.instagram.com/pablo_beti/)
+
+##
+
 ##
